@@ -1,0 +1,2 @@
+paho_mqtt==1.2.2
+sense_hat==2.2.0
